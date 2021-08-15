@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/webdekqj/demo.webdesignerinc.com/
+    - export DEPLOYPATH=/home4/webdekqj/demo.webdesignerinc.com/
     - /bin/cp * $DEPLOYPATH 
